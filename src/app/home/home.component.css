@@ -1,0 +1,42 @@
+h1{
+  margin: 30px;
+  font-size: 2rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+}
+
+.top-margin
+{
+  margin-top: 40px;
+}
+
+
+
+.form-position
+{
+  margin: 70px 20%;
+  background-color:white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.table-style
+{
+  background-color: white;
+}
+.ScrollStyle
+{
+    max-height: 250px;
+    overflow-y: scroll;
+}
+
+ thead{
+  position: sticky;
+  top: 0px;
+  background-color:#e9896a;
+}
+
+
+input.ng-invalid.ng-touched,select.ng-invalid.ng-touched{
+  border: 1px solid red;
+}
