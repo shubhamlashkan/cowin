@@ -4,8 +4,17 @@
 @import '~font-awesome/css/font-awesome.min';
 
 
-.footer-style
-{
-   margin-top: 10px ;
-   color: white;
+
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #0a81ab ;
+  color: white;
 }
+body
+{
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
